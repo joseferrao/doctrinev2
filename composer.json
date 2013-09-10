@@ -7,8 +7,7 @@
         "mpdf/mpdf": "dev-master"
     },
     "autoload": {
-        "psr-0": {
-        	"": "entities/"
+        "psr-0": { "": "entities/"
         	"": "proxies/"
     	}
     }
