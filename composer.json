@@ -1,5 +1,5 @@
 {
-	"name": "joseferrao/doctrinev2",
+    "name": "joseferrao/doctrinev2",
     "require": {
         "doctrine/orm": "2.*",
         "symfony/yaml": "2.*",
